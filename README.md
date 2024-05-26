@@ -7,6 +7,6 @@ Small project with different UI elements eventually for my personal use of manag
 ## Task Manager
 ![Image 2](./tasks.png)
 ## Dragable Task Manager
-![Image 2](./tasks.png)
+![Image 2](./scrollbar.png)
 ## Mind Map
 ![Image 2](./box.png)
